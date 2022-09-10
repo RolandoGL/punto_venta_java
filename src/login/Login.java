@@ -48,7 +48,7 @@ public class Login extends javax.swing.JFrame {
 
         lblTit1.setFont(new java.awt.Font("Segoe UI", 0, 36)); // NOI18N
         lblTit1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblTit1.setText("Bienvenido");
+        lblTit1.setText("Bienvenidos");
         loginContainer.add(lblTit1, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 8, 270, 50));
 
         txtNombre.setForeground(new java.awt.Color(153, 153, 153));
